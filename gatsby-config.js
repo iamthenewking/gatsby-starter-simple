@@ -12,7 +12,7 @@ const siteMetadata = {
   socials: [
     {
       name: "Github",
-      url: "https://github.com/thecodemint/gatsby-starter-simple",
+      url: "https://github.com/iamthenewking/gatsby-starter-simple",
     },
     {
       name: "Linkedin",
